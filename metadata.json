@@ -1,0 +1,6 @@
+{
+  "name": "AgriGenius AI — Smart Farming Agent",
+  "description": "Autonomous smart-farming decision support agent for farm & crop management, disease diagnosis, weather context, irrigation planning, market insights, and RAG-powered agricultural advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
